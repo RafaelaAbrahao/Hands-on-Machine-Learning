@@ -1,7 +1,7 @@
 # Hands-on-Machine-Learning
 
 <div align="center">
-  <img src="imgs/handson.jpg" alt="Hands-on-Machine-Learning cover" width="293" height="385" align="left" style="margin-right: 20px;"/>
+  <img src="imgs/bookcover.jpg" alt="Hands-on-Machine-Learning cover" width="293" height="385" align="left" style="margin-right: 20px;"/>
   <p>
     This repository contains my personal study notes and code exercises as I work through the second edition of <em>"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"</em> by Aurélien Géron.
   </p>
