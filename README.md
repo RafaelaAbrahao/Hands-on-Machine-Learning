@@ -7,6 +7,8 @@
   </p>
 </div>
 
+<div style="clear: both;"></div>
+
 # My Roadmap:
 1) [The Machine Learning Landscape](https://github.com/RafaelaAbrahao/Hands-on-Machine-Learning/blob/main/01-Machine-Learning-Landscape.ipynb)
 2) [End-to-End Machine Learning Project](https://github.com/RafaelaAbrahao/Hands-on-Machine-Learning/blob/main/02-End-to-End-Machine-Learning-Project.ipynb)
