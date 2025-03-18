@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="imgs/bookcover.png" width="100px;" alt="Book cover"/>
+      <img src="imgs/bookcover.png" width="120px;" alt="Book cover"/>
     </td>
     <td align="left">
       <p>This repository contains my personal study notes and code exercises as I work through the second edition of <em>"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"</em> by Aurélien Géron.</p>
